@@ -60,7 +60,7 @@ Download and install our free mobile application to stay up to date. Our Single 
 
 ### Website
 https://ourschoolsoftware.com
-### System
+### Demo Video
 https://educationist.pk/index.html#demo
 ### Anroid App
 https://play.google.com/store/apps/details?id=com.educationist.pk
